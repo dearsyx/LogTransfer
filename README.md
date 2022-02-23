@@ -1,3 +1,4 @@
 # log_transfer
 从kafka指定的topic中获取消息发送到es index
+
 kafka和es的配置项可以在config/logtransfer.ini中进行更改
